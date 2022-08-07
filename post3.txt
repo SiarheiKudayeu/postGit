@@ -1,0 +1,25 @@
+{
+    "args": {},
+    "data": "{\r\n    \"name\":\"Siarhei\",\r\n    \"surname\":\"Kudayeu\",\r\n    \"course\":\"manual QA\",\r\n    \"group\":\"QA-22\"\r\n}",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Content-Length": "101",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "Postman-Token": "b921cb1c-9fe5-4592-af05-54cc2c4fa944",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62efb0bd-3a78fde74b14c6e333921f7a"
+    },
+    "json": {
+        "course": "manual QA",
+        "group": "QA-22",
+        "name": "Siarhei",
+        "surname": "Kudayeu"
+    },
+    "method": "POST",
+    "origin": "88.156.139.254",
+    "url": "http://httpbin.org/anything"
+}
