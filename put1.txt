@@ -1,0 +1,18 @@
+{
+    "args": {},
+    "data": "",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Content-Length": "0",
+        "Host": "httpbin.org",
+        "Postman-Token": "8b2f2736-d1a6-4467-b0ad-2caeba2d0181",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62efa6ed-5f16ffd33ed44168326c90e9"
+    },
+    "json": null,
+    "origin": "88.156.139.254",
+    "url": "http://httpbin.org/put"
+}
